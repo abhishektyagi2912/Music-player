@@ -5,3 +5,4 @@ A Music Player lets you manage and listen to all your music files quickly and ea
 
 1. Pygame
 2. Tkinter
+  
